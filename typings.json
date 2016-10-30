@@ -1,0 +1,5 @@
+{
+  "name": "farmhash",
+  "main": "index.d.ts",
+  "dependencies": {}
+}
